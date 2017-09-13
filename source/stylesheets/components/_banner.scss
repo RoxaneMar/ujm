@@ -12,7 +12,7 @@
   p {
     align-self: left;
     margin-left: 50px;
-    width: 40%
+    width: 40%;
   }
   .logo-white {
     align-self: left;
@@ -40,14 +40,16 @@
   p {
     font-size: 28px;
     color: $dark_blue;
-    margin-right: 15px;
   }
+
   .play-size {
     display: flex;
-    justify-content: flex-start
+    justify-content: flex-start;
   }
+
   img {
     margin-top: 6px;
+    margin-left: 15px;
   }
 }
 
