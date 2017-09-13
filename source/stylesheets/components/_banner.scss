@@ -37,6 +37,18 @@
   h3 {
     margin-top: 0px;
   }
+  p {
+    font-size: 28px;
+    color: $dark_blue;
+    margin-right: 15px;
+  }
+  .play-size {
+    display: flex;
+    justify-content: flex-start
+  }
+  img {
+    margin-top: 6px;
+  }
 }
 
 .banner-partners {
