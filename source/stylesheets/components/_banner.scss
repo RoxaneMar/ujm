@@ -6,19 +6,21 @@
   justify-content: flex-start;
   background-size: cover !important;
   background-position: bottom;
-  .logo-ujm-fondation {
-    align-self: flex-end;
+  .first-banner-logos {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .logo-white {
+    margin-left: 50px;
+    margin-bottom: 8px;
   }
   p {
     align-self: left;
     margin-left: 50px;
     width: 40%;
   }
-  .logo-white {
-    align-self: left;
-    margin-left: 50px;
-    margin-bottom: 8px;
-  }
+
   .content-main {
     min-width: 100%;
     position: relative;
